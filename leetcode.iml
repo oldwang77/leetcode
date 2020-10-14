@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LinkedList/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tree/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stack-Queue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
